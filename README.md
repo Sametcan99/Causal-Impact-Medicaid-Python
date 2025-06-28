@@ -1,7 +1,7 @@
 # Causal-Impact-Medicaid-Python
 I analyzed the causal impact of Medicaid expansion on U.S. healthcare coverage using Python, applying DiD and Event Study methods to derive policy insights.
 
-Impact Evaluation of Medicaid Expansion on Healthcare Coverage (Python)
+# Impact Evaluation of Medicaid Expansion on Healthcare Coverage
 This repository analyzes the causal impact of the Affordable Care Act's (ACA) Medicaid expansion on U.S. healthcare coverage across diverse demographic groups, using rigorous econometric methods.
 
 📝 Project Overview
